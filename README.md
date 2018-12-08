@@ -1,2 +1,2 @@
-Çerez işlemleri için projelerimde kullanmak üzere oluşturduğum çerez sınıfıdır.
+Projelerimde kullanmak üzere oluşturduğum çerez sınıfıdır.
 
